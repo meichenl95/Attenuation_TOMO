@@ -1,0 +1,393 @@
+Start process event_us70007pa9
+[2021-06-09 08:51:34,558] - obspy.clients.fdsn.mass_downloader - INFO: Initializing FDSN client(s) for IRIS.
+[2021-06-09 08:51:34,908] - obspy.clients.fdsn.mass_downloader - INFO: Successfully initialized 1 client(s): IRIS.
+[2021-06-09 08:51:34,908] - obspy.clients.fdsn.mass_downloader - INFO: Total acquired or preexisting stations: 0
+[2021-06-09 08:51:34,908] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Requesting reliable availability.
+[2021-06-09 08:51:44,105] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully requested availability (9.20 seconds)
+[2021-06-09 08:51:44,409] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Found 47 stations (141 channels).
+[2021-06-09 08:51:44,441] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Will attempt to download data from 47 stations.
+[2021-06-09 08:51:44,447] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 141 time intervals/channels before downloading: NEEDS_DOWNLOADING
+[2021-06-09 08:52:01,308] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 41 channels (of 50)
+[2021-06-09 08:52:03,326] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 47 channels (of 50)
+[2021-06-09 08:52:04,323] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 41 channels (of 41)
+[2021-06-09 08:52:04,323] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Launching basic QC checks...
+[2021-06-09 08:52:04,472] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 12.7 MB [654.62 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+[2021-06-09 08:52:04,473] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 12 time intervals/channels after downloading: DOWNLOAD_FAILED
+[2021-06-09 08:52:04,473] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 129 time intervals/channels after downloading: DOWNLOADED
+[2021-06-09 08:52:04,627] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.BFS.xml'.
+[2021-06-09 08:52:04,633] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.DAN.xml'.
+[2021-06-09 08:52:04,635] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.ADO.xml'.
+[2021-06-09 08:52:04,765] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.CHF.xml'.
+[2021-06-09 08:52:04,778] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.DEC.xml'.
+[2021-06-09 08:52:04,784] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.ARV.xml'.
+[2021-06-09 08:52:04,913] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.CIA.xml'.
+[2021-06-09 08:52:04,925] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.DGR.xml'.
+[2021-06-09 08:52:04,929] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.BAK.xml'.
+[2021-06-09 08:52:05,057] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.CWC.xml'.
+[2021-06-09 08:52:05,061] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.DJJ.xml'.
+[2021-06-09 08:52:05,069] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.BBR.xml'.
+[2021-06-09 08:52:05,196] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.EDW2.xml'.
+[2021-06-09 08:52:05,207] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.MPP.xml'.
+[2021-06-09 08:52:05,209] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.GSC.xml'.
+[2021-06-09 08:52:05,356] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.ISA.xml'.
+[2021-06-09 08:52:05,363] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.FMP.xml'.
+[2021-06-09 08:52:05,387] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.MUR.xml'.
+[2021-06-09 08:52:05,507] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.LRL.xml'.
+[2021-06-09 08:52:05,509] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.FUR.xml'.
+[2021-06-09 08:52:05,531] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.MWC.xml'.
+[2021-06-09 08:52:05,647] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.GMR.xml'.
+[2021-06-09 08:52:05,653] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.MLAC.xml'.
+[2021-06-09 08:52:05,677] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.NEE2.xml'.
+[2021-06-09 08:52:05,798] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.OSI.xml'.
+[2021-06-09 08:52:05,799] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.RPV.xml'.
+[2021-06-09 08:52:05,830] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.SDD.xml'.
+[2021-06-09 08:52:05,943] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.RRX.xml'.
+[2021-06-09 08:52:05,945] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.PASC.xml'.
+[2021-06-09 08:52:05,970] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.SHO.xml'.
+[2021-06-09 08:52:06,085] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.PHL.xml'.
+[2021-06-09 08:52:06,087] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.SBC.xml'.
+[2021-06-09 08:52:06,114] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.SLA.xml'.
+[2021-06-09 08:52:06,225] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.PLM.xml'.
+[2021-06-09 08:52:06,247] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.SCI2.xml'.
+[2021-06-09 08:52:06,266] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.SMM.xml'.
+[2021-06-09 08:52:06,372] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.SVD.xml'.
+[2021-06-09 08:52:06,403] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.VES.xml'.
+[2021-06-09 08:52:06,524] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.TIN.xml'.
+[2021-06-09 08:52:06,550] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.VOG.xml'.
+[2021-06-09 08:52:06,667] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.TUQ.xml'.
+[2021-06-09 08:52:06,695] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.VTV.xml'.
+[2021-06-09 08:52:06,821] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us70007pa9/stations/CI.USC.xml'.
+[2021-06-09 08:52:06,866] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 43 station files [1.0 MB] in 2.3 seconds [445.17 KB/sec].
+[2021-06-09 08:52:06,867] - obspy.clients.fdsn.mass_downloader - INFO: ============================== Final report
+[2021-06-09 08:52:06,867] - obspy.clients.fdsn.mass_downloader - INFO: 0 MiniSEED files [0.0 MB] already existed.
+[2021-06-09 08:52:06,867] - obspy.clients.fdsn.mass_downloader - INFO: 0 StationXML files [0.0 MB] already existed.
+[2021-06-09 08:52:06,867] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 129 MiniSEED files [12.7 MB].
+[2021-06-09 08:52:06,867] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 43 StationXML files [1.0 MB].
+[2021-06-09 08:52:06,867] - obspy.clients.fdsn.mass_downloader - INFO: Downloaded 13.7 MB in total.
+us70007pa9.CI.ISA..BH: cmpaz1=74, cmpaz2=0 are not orthogonal!
+Start process event_us1000hbkz
+[2021-06-09 08:52:44,090] - obspy.clients.fdsn.mass_downloader - INFO: Initializing FDSN client(s) for IRIS.
+[2021-06-09 08:52:44,096] - obspy.clients.fdsn.mass_downloader - INFO: Successfully initialized 1 client(s): IRIS.
+[2021-06-09 08:52:44,096] - obspy.clients.fdsn.mass_downloader - INFO: Total acquired or preexisting stations: 0
+[2021-06-09 08:52:44,096] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Requesting reliable availability.
+[2021-06-09 08:52:55,167] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully requested availability (11.07 seconds)
+[2021-06-09 08:52:55,514] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Found 56 stations (168 channels).
+[2021-06-09 08:52:55,558] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Will attempt to download data from 56 stations.
+[2021-06-09 08:52:55,565] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 168 time intervals/channels before downloading: NEEDS_DOWNLOADING
+[2021-06-09 08:53:13,843] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 44 channels (of 50)
+[2021-06-09 08:53:15,759] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 50 channels (of 50)
+[2021-06-09 08:53:17,510] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 50 channels (of 50)
+[2021-06-09 08:53:23,711] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 18 channels (of 18)
+[2021-06-09 08:53:23,711] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Launching basic QC checks...
+[2021-06-09 08:53:23,917] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 15.9 MB [576.85 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+[2021-06-09 08:53:23,917] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 6 time intervals/channels after downloading: DOWNLOAD_FAILED
+[2021-06-09 08:53:23,917] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 162 time intervals/channels after downloading: DOWNLOADED
+[2021-06-09 08:53:24,065] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.ADO.xml'.
+[2021-06-09 08:53:24,070] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.BC3.xml'.
+[2021-06-09 08:53:24,074] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.DEC.xml'.
+[2021-06-09 08:53:24,211] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.ARV.xml'.
+[2021-06-09 08:53:24,213] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.DGR.xml'.
+[2021-06-09 08:53:24,216] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.BEL.xml'.
+[2021-06-09 08:53:24,352] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.BAK.xml'.
+[2021-06-09 08:53:24,357] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.CIA.xml'.
+[2021-06-09 08:53:24,397] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.DJJ.xml'.
+[2021-06-09 08:53:24,493] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.BAR.xml'.
+[2021-06-09 08:53:24,499] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.CWC.xml'.
+[2021-06-09 08:53:24,536] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.EDW2.xml'.
+[2021-06-09 08:53:24,670] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.DAN.xml'.
+[2021-06-09 08:53:24,673] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.FMP.xml'.
+[2021-06-09 08:53:24,674] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.BBR.xml'.
+[2021-06-09 08:53:24,811] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.FUR.xml'.
+[2021-06-09 08:53:24,821] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.HEC.xml'.
+[2021-06-09 08:53:24,823] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.MLAC.xml'.
+[2021-06-09 08:53:24,964] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.GLA.xml'.
+[2021-06-09 08:53:24,973] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.IKP.xml'.
+[2021-06-09 08:53:24,988] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.MPM.xml'.
+[2021-06-09 08:53:25,101] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.GMR.xml'.
+[2021-06-09 08:53:25,112] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.IRM.xml'.
+[2021-06-09 08:53:25,127] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.MPP.xml'.
+[2021-06-09 08:53:25,242] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.GRA.xml'.
+[2021-06-09 08:53:25,264] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.ISA.xml'.
+[2021-06-09 08:53:25,284] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.MUR.xml'.
+[2021-06-09 08:53:25,386] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.GSC.xml'.
+[2021-06-09 08:53:25,413] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.LRL.xml'.
+[2021-06-09 08:53:25,428] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.MWC.xml'.
+[2021-06-09 08:53:25,542] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.NEE2.xml'.
+[2021-06-09 08:53:25,553] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.PLM.xml'.
+[2021-06-09 08:53:25,582] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SCZ2.xml'.
+[2021-06-09 08:53:25,686] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.OSI.xml'.
+[2021-06-09 08:53:25,694] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.RPV.xml'.
+[2021-06-09 08:53:25,721] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SDD.xml'.
+[2021-06-09 08:53:25,842] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.PASC.xml'.
+[2021-06-09 08:53:25,849] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.RRX.xml'.
+[2021-06-09 08:53:25,900] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SHO.xml'.
+[2021-06-09 08:53:26,000] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SBC.xml'.
+[2021-06-09 08:53:26,002] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.PDM.xml'.
+[2021-06-09 08:53:26,048] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SLA.xml'.
+[2021-06-09 08:53:26,148] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.PHL.xml'.
+[2021-06-09 08:53:26,159] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SCI2.xml'.
+[2021-06-09 08:53:26,189] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SMM.xml'.
+[2021-06-09 08:53:26,294] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SNCC.xml'.
+[2021-06-09 08:53:26,297] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.USC.xml'.
+[2021-06-09 08:53:26,436] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SVD.xml'.
+[2021-06-09 08:53:26,439] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.VES.xml'.
+[2021-06-09 08:53:26,581] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.VOG.xml'.
+[2021-06-09 08:53:26,582] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.SWS.xml'.
+[2021-06-09 08:53:26,723] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.TIN.xml'.
+[2021-06-09 08:53:26,725] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.VTV.xml'.
+[2021-06-09 08:53:26,871] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us1000hbkz/stations/CI.TUQ.xml'.
+[2021-06-09 08:53:26,922] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 54 station files [1.3 MB] in 2.9 seconds [445.13 KB/sec].
+[2021-06-09 08:53:26,923] - obspy.clients.fdsn.mass_downloader - INFO: ============================== Final report
+[2021-06-09 08:53:26,923] - obspy.clients.fdsn.mass_downloader - INFO: 0 MiniSEED files [0.0 MB] already existed.
+[2021-06-09 08:53:26,923] - obspy.clients.fdsn.mass_downloader - INFO: 0 StationXML files [0.0 MB] already existed.
+[2021-06-09 08:53:26,924] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 162 MiniSEED files [15.9 MB].
+[2021-06-09 08:53:26,924] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 54 StationXML files [1.3 MB].
+[2021-06-09 08:53:26,924] - obspy.clients.fdsn.mass_downloader - INFO: Downloaded 17.1 MB in total.
+us1000hbkz.CI.ISA..BH: cmpaz1=74, cmpaz2=0 are not orthogonal!
+Start process event_us20004vvx
+[2021-06-09 08:54:15,560] - obspy.clients.fdsn.mass_downloader - INFO: Initializing FDSN client(s) for IRIS.
+[2021-06-09 08:54:15,565] - obspy.clients.fdsn.mass_downloader - INFO: Successfully initialized 1 client(s): IRIS.
+[2021-06-09 08:54:15,566] - obspy.clients.fdsn.mass_downloader - INFO: Total acquired or preexisting stations: 0
+[2021-06-09 08:54:15,566] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Requesting reliable availability.
+[2021-06-09 08:54:27,365] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully requested availability (11.80 seconds)
+[2021-06-09 08:54:27,712] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Found 57 stations (171 channels).
+[2021-06-09 08:54:27,760] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Will attempt to download data from 57 stations.
+[2021-06-09 08:54:27,766] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 171 time intervals/channels before downloading: NEEDS_DOWNLOADING
+[2021-06-09 08:54:47,734] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 47 channels (of 50)
+[2021-06-09 08:54:49,834] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 50 channels (of 50)
+[2021-06-09 08:54:51,114] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 47 channels (of 50)
+[2021-06-09 08:54:59,265] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 21 channels (of 21)
+[2021-06-09 08:54:59,265] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Launching basic QC checks...
+[2021-06-09 08:54:59,442] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 17.4 MB [565.67 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+[2021-06-09 08:54:59,442] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 6 time intervals/channels after downloading: DOWNLOAD_FAILED
+[2021-06-09 08:54:59,442] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 165 time intervals/channels after downloading: DOWNLOADED
+[2021-06-09 08:54:59,590] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.BC3.xml'.
+[2021-06-09 08:54:59,597] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.DAN.xml'.
+[2021-06-09 08:54:59,600] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.ADO.xml'.
+[2021-06-09 08:54:59,738] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.BEL.xml'.
+[2021-06-09 08:54:59,740] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.DEC.xml'.
+[2021-06-09 08:54:59,742] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.ARV.xml'.
+[2021-06-09 08:54:59,884] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.CHF.xml'.
+[2021-06-09 08:54:59,889] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.DGR.xml'.
+[2021-06-09 08:54:59,890] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.BAK.xml'.
+[2021-06-09 08:55:00,025] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.CIA.xml'.
+[2021-06-09 08:55:00,029] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.BAR.xml'.
+[2021-06-09 08:55:00,032] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.DJJ.xml'.
+[2021-06-09 08:55:00,163] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.CWC.xml'.
+[2021-06-09 08:55:00,169] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.BBR.xml'.
+[2021-06-09 08:55:00,175] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.EDW2.xml'.
+[2021-06-09 08:55:00,309] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.FMP.xml'.
+[2021-06-09 08:55:00,315] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.LRL.xml'.
+[2021-06-09 08:55:00,335] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.GSC.xml'.
+[2021-06-09 08:55:00,448] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.FUR.xml'.
+[2021-06-09 08:55:00,454] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.MLAC.xml'.
+[2021-06-09 08:55:00,477] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.HEC.xml'.
+[2021-06-09 08:55:00,590] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.GLA.xml'.
+[2021-06-09 08:55:00,595] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.MPM.xml'.
+[2021-06-09 08:55:00,621] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.IKP.xml'.
+[2021-06-09 08:55:00,729] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.GMR.xml'.
+[2021-06-09 08:55:00,739] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.MPP.xml'.
+[2021-06-09 08:55:00,762] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.IRM.xml'.
+[2021-06-09 08:55:00,876] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.GRA.xml'.
+[2021-06-09 08:55:00,884] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.MUR.xml'.
+[2021-06-09 08:55:00,911] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.ISA.xml'.
+[2021-06-09 08:55:01,030] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.MWC.xml'.
+[2021-06-09 08:55:01,032] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.PHL.xml'.
+[2021-06-09 08:55:01,057] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SCI2.xml'.
+[2021-06-09 08:55:01,173] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.NEE2.xml'.
+[2021-06-09 08:55:01,185] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.PLM.xml'.
+[2021-06-09 08:55:01,194] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SDD.xml'.
+[2021-06-09 08:55:01,322] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.OSI.xml'.
+[2021-06-09 08:55:01,328] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.RPV.xml'.
+[2021-06-09 08:55:01,333] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SHO.xml'.
+[2021-06-09 08:55:01,464] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.PASC.xml'.
+[2021-06-09 08:55:01,467] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.RRX.xml'.
+[2021-06-09 08:55:01,475] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SLA.xml'.
+[2021-06-09 08:55:01,608] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SBC.xml'.
+[2021-06-09 08:55:01,624] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SMM.xml'.
+[2021-06-09 08:55:01,760] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SNCC.xml'.
+[2021-06-09 08:55:01,772] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.USC.xml'.
+[2021-06-09 08:55:01,902] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SVD.xml'.
+[2021-06-09 08:55:01,918] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.VCS.xml'.
+[2021-06-09 08:55:02,039] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.SWS.xml'.
+[2021-06-09 08:55:02,068] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.VES.xml'.
+[2021-06-09 08:55:02,186] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.TIN.xml'.
+[2021-06-09 08:55:02,214] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.VOG.xml'.
+[2021-06-09 08:55:02,331] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.TUQ.xml'.
+[2021-06-09 08:55:02,364] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.VTV.xml'.
+[2021-06-09 08:55:03,613] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_us20004vvx/stations/CI.PDM.xml'.
+[2021-06-09 08:55:03,670] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 55 station files [1.3 MB] in 4.2 seconds [324.28 KB/sec].
+[2021-06-09 08:55:03,671] - obspy.clients.fdsn.mass_downloader - INFO: ============================== Final report
+[2021-06-09 08:55:03,671] - obspy.clients.fdsn.mass_downloader - INFO: 0 MiniSEED files [0.0 MB] already existed.
+[2021-06-09 08:55:03,671] - obspy.clients.fdsn.mass_downloader - INFO: 0 StationXML files [0.0 MB] already existed.
+[2021-06-09 08:55:03,672] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 165 MiniSEED files [17.4 MB].
+[2021-06-09 08:55:03,672] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 55 StationXML files [1.3 MB].
+[2021-06-09 08:55:03,672] - obspy.clients.fdsn.mass_downloader - INFO: Downloaded 18.7 MB in total.
+us20004vvx.CI.ISA..BH: cmpaz1=74, cmpaz2=0 are not orthogonal!
+Start process event_usc000f03a
+[2021-06-09 08:55:52,375] - obspy.clients.fdsn.mass_downloader - INFO: Initializing FDSN client(s) for IRIS.
+[2021-06-09 08:55:52,379] - obspy.clients.fdsn.mass_downloader - INFO: Successfully initialized 1 client(s): IRIS.
+[2021-06-09 08:55:52,379] - obspy.clients.fdsn.mass_downloader - INFO: Total acquired or preexisting stations: 0
+[2021-06-09 08:55:52,379] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Requesting reliable availability.
+[2021-06-09 08:55:52,715] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - No data available for request.
+[2021-06-09 08:55:52,715] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - No data available.
+[2021-06-09 08:55:52,716] - obspy.clients.fdsn.mass_downloader - INFO: ============================== Final report
+[2021-06-09 08:55:52,716] - obspy.clients.fdsn.mass_downloader - INFO: 0 MiniSEED files [0.0 MB] already existed.
+[2021-06-09 08:55:52,716] - obspy.clients.fdsn.mass_downloader - INFO: 0 StationXML files [0.0 MB] already existed.
+[2021-06-09 08:55:52,716] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 0 MiniSEED files [0.0 MB].
+[2021-06-09 08:55:52,716] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 0 StationXML files [0.0 MB].
+[2021-06-09 08:55:52,716] - obspy.clients.fdsn.mass_downloader - INFO: Downloaded 0.0 MB in total.
+Start process event_usp000jq9h
+[2021-06-09 08:55:52,826] - obspy.clients.fdsn.mass_downloader - INFO: Initializing FDSN client(s) for IRIS.
+[2021-06-09 08:55:52,832] - obspy.clients.fdsn.mass_downloader - INFO: Successfully initialized 1 client(s): IRIS.
+[2021-06-09 08:55:52,832] - obspy.clients.fdsn.mass_downloader - INFO: Total acquired or preexisting stations: 0
+[2021-06-09 08:55:52,832] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Requesting reliable availability.
+[2021-06-09 08:55:53,475] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully requested availability (0.64 seconds)
+[2021-06-09 08:55:53,564] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Found 54 stations (160 channels).
+[2021-06-09 08:55:53,602] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Will attempt to download data from 54 stations.
+[2021-06-09 08:55:53,608] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 160 time intervals/channels before downloading: NEEDS_DOWNLOADING
+[2021-06-09 08:56:00,490] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 44 channels (of 50)
+[2021-06-09 08:56:01,371] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 46 channels (of 50)
+[2021-06-09 08:56:01,638] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 47 channels (of 50)
+[2021-06-09 08:56:02,344] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 10 channels (of 10)
+[2021-06-09 08:56:02,344] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Launching basic QC checks...
+[2021-06-09 08:56:02,502] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 16.9 MB [1976.62 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+[2021-06-09 08:56:02,502] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 13 time intervals/channels after downloading: DOWNLOAD_FAILED
+[2021-06-09 08:56:02,502] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 147 time intervals/channels after downloading: DOWNLOADED
+[2021-06-09 08:56:02,663] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.BFS.xml'.
+[2021-06-09 08:56:02,669] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.DEC.xml'.
+[2021-06-09 08:56:02,888] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.DGR.xml'.
+[2021-06-09 08:56:02,891] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.CHF.xml'.
+[2021-06-09 08:56:03,040] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.DJJ.xml'.
+[2021-06-09 08:56:03,042] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.CIA.xml'.
+[2021-06-09 08:56:03,191] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.EDW2.xml'.
+[2021-06-09 08:56:03,194] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.CWC.xml'.
+[2021-06-09 08:56:03,344] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.FMP.xml'.
+[2021-06-09 08:56:03,349] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.DAN.xml'.
+[2021-06-09 08:56:03,425] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.ADO.xml'.
+[2021-06-09 08:56:03,492] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.FUR.xml'.
+[2021-06-09 08:56:03,497] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.ISA.xml'.
+[2021-06-09 08:56:03,577] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.ARV.xml'.
+[2021-06-09 08:56:03,643] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.GMR.xml'.
+[2021-06-09 08:56:03,648] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.LGU.xml'.
+[2021-06-09 08:56:03,801] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.LRL.xml'.
+[2021-06-09 08:56:03,956] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.MLAC.xml'.
+[2021-06-09 08:56:04,110] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.MPM.xml'.
+[2021-06-09 08:56:04,162] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.BAK.xml'.
+[2021-06-09 08:56:04,228] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.GRA.xml'.
+[2021-06-09 08:56:04,258] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.MPP.xml'.
+[2021-06-09 08:56:04,309] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.BBR.xml'.
+[2021-06-09 08:56:04,378] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.GSC.xml'.
+[2021-06-09 08:56:04,415] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.MUR.xml'.
+[2021-06-09 08:56:04,459] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.BEL.xml'.
+[2021-06-09 08:56:04,523] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.HEC.xml'.
+[2021-06-09 08:56:04,610] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.PHL.xml'.
+[2021-06-09 08:56:04,674] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SCI2.xml'.
+[2021-06-09 08:56:04,762] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.PLM.xml'.
+[2021-06-09 08:56:04,830] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SCZ2.xml'.
+[2021-06-09 08:56:04,912] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.RPV.xml'.
+[2021-06-09 08:56:04,985] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SDD.xml'.
+[2021-06-09 08:56:05,018] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.MWC.xml'.
+[2021-06-09 08:56:05,068] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.RRX.xml'.
+[2021-06-09 08:56:05,140] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SHO.xml'.
+[2021-06-09 08:56:05,170] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.OSI.xml'.
+[2021-06-09 08:56:05,220] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SBC.xml'.
+[2021-06-09 08:56:05,294] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SLA.xml'.
+[2021-06-09 08:56:05,319] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.PASC.xml'.
+[2021-06-09 08:56:05,376] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SMM.xml'.
+[2021-06-09 08:56:05,441] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.USC.xml'.
+[2021-06-09 08:56:05,528] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SNCC.xml'.
+[2021-06-09 08:56:05,590] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.VCS.xml'.
+[2021-06-09 08:56:05,678] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.SVD.xml'.
+[2021-06-09 08:56:05,742] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.VES.xml'.
+[2021-06-09 08:56:05,833] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.TIN.xml'.
+[2021-06-09 08:56:05,894] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.VTV.xml'.
+[2021-06-09 08:56:05,989] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000jq9h/stations/CI.TUQ.xml'.
+[2021-06-09 08:56:06,035] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 49 station files [1.1 MB] in 3.5 seconds [330.07 KB/sec].
+[2021-06-09 08:56:06,036] - obspy.clients.fdsn.mass_downloader - INFO: ============================== Final report
+[2021-06-09 08:56:06,036] - obspy.clients.fdsn.mass_downloader - INFO: 0 MiniSEED files [0.0 MB] already existed.
+[2021-06-09 08:56:06,036] - obspy.clients.fdsn.mass_downloader - INFO: 0 StationXML files [0.0 MB] already existed.
+[2021-06-09 08:56:06,037] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 147 MiniSEED files [16.9 MB].
+[2021-06-09 08:56:06,037] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 49 StationXML files [1.1 MB].
+[2021-06-09 08:56:06,037] - obspy.clients.fdsn.mass_downloader - INFO: Downloaded 18.0 MB in total.
+Start process event_usp000gpbs
+[2021-06-09 08:56:48,833] - obspy.clients.fdsn.mass_downloader - INFO: Initializing FDSN client(s) for IRIS.
+[2021-06-09 08:56:48,838] - obspy.clients.fdsn.mass_downloader - INFO: Successfully initialized 1 client(s): IRIS.
+[2021-06-09 08:56:48,839] - obspy.clients.fdsn.mass_downloader - INFO: Total acquired or preexisting stations: 0
+[2021-06-09 08:56:48,839] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Requesting reliable availability.
+[2021-06-09 08:56:54,205] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully requested availability (5.37 seconds)
+[2021-06-09 08:56:54,316] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Found 69 stations (205 channels).
+[2021-06-09 08:56:54,381] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Will attempt to download data from 69 stations.
+[2021-06-09 08:56:54,389] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 205 time intervals/channels before downloading: NEEDS_DOWNLOADING
+[2021-06-09 08:57:11,499] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 44 channels (of 50)
+[2021-06-09 08:57:11,872] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 38 channels (of 50)
+[2021-06-09 08:57:13,686] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 44 channels (of 50)
+[2021-06-09 08:57:14,029] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 2 channels (of 5)
+[2021-06-09 08:57:31,440] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded 40 channels (of 50)
+[2021-06-09 08:57:31,441] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Launching basic QC checks...
+[2021-06-09 08:57:31,602] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 16.8 MB [463.95 KB/sec] of data, 0.0 MB of which were discarded afterwards.
+[2021-06-09 08:57:31,602] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 37 time intervals/channels after downloading: DOWNLOAD_FAILED
+[2021-06-09 08:57:31,602] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Status for 168 time intervals/channels after downloading: DOWNLOADED
+[2021-06-09 08:57:31,801] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.CWC.xml'.
+[2021-06-09 08:57:31,870] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.ADO.xml'.
+[2021-06-09 08:57:31,875] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.BC3.xml'.
+[2021-06-09 08:57:32,012] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.ARV.xml'.
+[2021-06-09 08:57:32,016] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.DAN.xml'.
+[2021-06-09 08:57:32,097] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.BEL.xml'.
+[2021-06-09 08:57:32,225] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.BAK.xml'.
+[2021-06-09 08:57:32,235] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.DEC.xml'.
+[2021-06-09 08:57:32,311] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.BFS.xml'.
+[2021-06-09 08:57:32,372] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.BAR.xml'.
+[2021-06-09 08:57:32,394] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.DGR.xml'.
+[2021-06-09 08:57:32,525] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.CHF.xml'.
+[2021-06-09 08:57:32,582] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.BBR.xml'.
+[2021-06-09 08:57:32,608] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.DJJ.xml'.
+[2021-06-09 08:57:32,734] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.CIA.xml'.
+[2021-06-09 08:57:32,751] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.GMR.xml'.
+[2021-06-09 08:57:32,804] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.DVT.xml'.
+[2021-06-09 08:57:32,943] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.EDW2.xml'.
+[2021-06-09 08:57:33,073] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.ISA.xml'.
+[2021-06-09 08:57:33,116] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.GRA.xml'.
+[2021-06-09 08:57:33,159] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.FMP.xml'.
+[2021-06-09 08:57:33,285] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.LGU.xml'.
+[2021-06-09 08:57:33,325] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.GSC.xml'.
+[2021-06-09 08:57:33,378] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.FUR.xml'.
+[2021-06-09 08:57:33,502] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.LRL.xml'.
+[2021-06-09 08:57:33,516] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.GLA.xml'.
+[2021-06-09 08:57:33,536] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.HEC.xml'.
+[2021-06-09 08:57:33,722] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.MLAC.xml'.
+[2021-06-09 08:57:33,733] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.MPP.xml'.
+[2021-06-09 08:57:33,762] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.IRM.xml'.
+[2021-06-09 08:57:33,866] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.MPM.xml'.
+[2021-06-09 08:57:33,920] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.PASC.xml'.
+[2021-06-09 08:57:33,943] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.MUR.xml'.
+[2021-06-09 08:57:34,078] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.RPV.xml'.
+[2021-06-09 08:57:34,128] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.PDM.xml'.
+[2021-06-09 08:57:34,154] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.MWC.xml'.
+[2021-06-09 08:57:34,266] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.PHL.xml'.
+[2021-06-09 08:57:34,293] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.RRX.xml'.
+[2021-06-09 08:57:34,348] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.NEE2.xml'.
+[2021-06-09 08:57:34,490] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.PLM.xml'.
+[2021-06-09 08:57:34,496] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.OSI.xml'.
+[2021-06-09 08:57:34,505] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SBC.xml'.
+[2021-06-09 08:57:34,647] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SCI2.xml'.
+[2021-06-09 08:57:34,714] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.RCT.xml'.
+[2021-06-09 08:57:34,717] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SDD.xml'.
+[2021-06-09 08:57:34,936] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SHO.xml'.
+[2021-06-09 08:57:34,948] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SWS.xml'.
+[2021-06-09 08:57:35,152] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SLA.xml'.
+[2021-06-09 08:57:35,162] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.TIN.xml'.
+[2021-06-09 08:57:35,200] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SCZ2.xml'.
+[2021-06-09 08:57:35,345] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.VTV.xml'.
+[2021-06-09 08:57:35,361] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SMM.xml'.
+[2021-06-09 08:57:35,374] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.TUQ.xml'.
+[2021-06-09 08:57:35,498] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.SVD.xml'.
+[2021-06-09 08:57:35,559] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.USC.xml'.
+[2021-06-09 08:57:36,202] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Successfully downloaded '/home/meichen/work1/Attn_TOMO/event_usp000gpbs/stations/CI.VCS.xml'.
+[2021-06-09 08:57:36,338] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Downloaded 56 station files [7.7 MB] in 4.6 seconds [1719.46 KB/sec].
+[2021-06-09 08:57:36,339] - obspy.clients.fdsn.mass_downloader - INFO: ============================== Final report
+[2021-06-09 08:57:36,339] - obspy.clients.fdsn.mass_downloader - INFO: 0 MiniSEED files [0.0 MB] already existed.
+[2021-06-09 08:57:36,339] - obspy.clients.fdsn.mass_downloader - INFO: 0 StationXML files [0.0 MB] already existed.
+[2021-06-09 08:57:36,340] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 168 MiniSEED files [16.8 MB].
+[2021-06-09 08:57:36,340] - obspy.clients.fdsn.mass_downloader - INFO: Client 'IRIS' - Acquired 56 StationXML files [7.7 MB].
+[2021-06-09 08:57:36,340] - obspy.clients.fdsn.mass_downloader - INFO: Downloaded 24.5 MB in total.

@@ -1,0 +1,7 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-02-13T10:33:44,45.6161,148.959,143,7,mww,,25,4.501,0.83,us,us70007pa9,2020-05-02T22:09:44.040Z,"94km ENE of Kuril'sk, Russia",earthquake,7.3,1.9,0.027,131,reviewed,us,us
+2018-10-13T11:10:22,52.8549,153.2429,461,6.7,mww,,17,2.705,0.74,us,us1000hbkz,2018-12-21T21:15:51.040Z,"269km NW of Ozernovskiy, Russia",earthquake,6.5,1.9,0.033,89,reviewed,us,us
+2016-01-30T03:25:12,53.9776,158.5463,177,7.2,mww,,17,0.958,1.19,us,us20004vvx,2020-07-07T22:49:26.283Z,"88km N of Yelizovo, Russia",earthquake,5.8,1.8,,,reviewed,us,us
+2013-02-02T14:17:35,42.77,143.092,107,6.9,mww,686,28,,0.86,us,usc000f03a,2020-07-07T22:59:38.392Z,"19km SSW of Obihiro, Japan",earthquake,,,,,reviewed,us,us
+2012-08-14T02:59:38,49.8,145.064,583.2,7.7,mww,862,13.8,,0.83,us,usp000jq9h,2020-09-21T18:20:00.210Z,"Sea of Okhotsk",earthquake,,2.6,,,reviewed,us,us
+2008-11-24T09:02:58,54.203,154.322,492.3,7.3,mwc,531,22.7,,0.77,us,usp000gpbs,2017-11-13T18:00:49.533Z,"Sea of Okhotsk",earthquake,,3.2,,,reviewed,us,us

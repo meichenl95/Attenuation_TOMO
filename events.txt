@@ -1,0 +1,16 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-02-13T10:33:44,45.6161,148.959,143,7,mww,,25,4.501,0.83,us,us70007pa9,2020-05-02T22:09:44.040Z,"94km ENE of Kuril'sk, Russia",earthquake,7.3,1.9,0.027,131,reviewed,us,us
+2018-10-13T11:10:22,52.8549,153.2429,461,6.7,mww,,17,2.705,0.74,us,us1000hbkz,2018-12-21T21:15:51.040Z,"269km NW of Ozernovskiy, Russia",earthquake,6.5,1.9,0.033,89,reviewed,us,us
+2016-01-30T03:25:12,53.9776,158.5463,177,7.2,mww,,17,0.958,1.19,us,us20004vvx,2020-07-07T22:49:26.283Z,"88km N of Yelizovo, Russia",earthquake,5.8,1.8,,,reviewed,us,us
+2013-10-01T03:38:21,53.1995,152.7864,573,6.7,mww,,11,2.958,1.2,us,usb000k3c1,2013-12-19T02:59:34.067Z,"Sea of Okhotsk",earthquake,,1.8,,,reviewed,us,us
+2013-05-24T14:56:31,52.235,151.444,624,6.7,mwb,217,25.2,,0.95,us,usb000h543,2014-11-07T01:50:53.982Z,"Sea of Okhotsk",earthquake,,,,,reviewed,us,us
+2013-05-24T05:44:48,54.892,153.221,598.1,8.3,mww,385,10,,1.02,us,usb000h4jh,2020-07-10T18:06:54.696Z,"Sea of Okhotsk",earthquake,,4.1,,,reviewed,us,us
+2013-04-19T03:05:52,46.221,150.788,110,7.2,mww,770,10.1,,0.86,us,usb000gbf8,2020-07-10T18:03:01.725Z,"251km ENE of Kuril'sk, Russia",earthquake,,,,,reviewed,us,us
+2013-02-02T14:17:35,42.77,143.092,107,6.9,mww,686,28,,0.86,us,usc000f03a,2020-07-07T22:59:38.392Z,"19km SSW of Obihiro, Japan",earthquake,,,,,reviewed,us,us
+2012-08-14T02:59:38,49.8,145.064,583.2,7.7,mww,862,13.8,,0.83,us,usp000jq9h,2020-09-21T18:20:00.210Z,"Sea of Okhotsk",earthquake,,2.6,,,reviewed,us,us
+2008-11-24T09:02:58,54.203,154.322,492.3,7.3,mwc,531,22.7,,0.77,us,usp000gpbs,2017-11-13T18:00:49.533Z,"Sea of Okhotsk",earthquake,,3.2,,,reviewed,us,us
+2008-07-05T02:12:04,53.882,152.886,632.8,7.7,mwc,777,13.5,,0.83,us,usp000gbc0,2021-02-18T19:31:27.046Z,"Sea of Okhotsk",earthquake,,3.1,,,reviewed,us,us
+2004-06-10T15:19:57,55.682,160.003,188.6,6.9,mwb,798,31.2,,0.81,us,usp000cxkw,2020-09-18T19:57:08.735Z,"Kamchatka Peninsula, Russia",earthquake,,,,,reviewed,us,us
+2003-07-27T06:25:31,47.151,139.248,470.3,6.8,mwb,735,20.9,,0.76,us,usp000c3fr,2020-09-18T19:32:20.212Z,"Primor'ye, Russia",earthquake,,,,,reviewed,us,us
+2003-06-16T22:08:02,55.492,159.999,174.8,6.9,mwb,733,26.7,,0.84,us,usp000c01m,2020-09-18T19:28:00.191Z,"Kamchatka Peninsula, Russia",earthquake,,,,,reviewed,us,us
+2002-11-17T04:53:53,47.824,146.209,459.1,7.3,mwc,326,,,1.02,us,usp000bhv1,2017-11-07T18:39:09.074Z,"northwest of the Kuril Islands",earthquake,,,,,reviewed,us,hrv
